@@ -13,6 +13,19 @@ The sensor is just a miniature solar cell connected to a small transformer which
 
 I installed Audacity 2.2.2 on Raspbian 10 and was pleasantly surprised that it ran very well. I operated the Raspberry Pi remotely using VNC.
 
+Install the prerelease version:
+    pwsh -nop -c '$function:i=irm "https://git.io/JtOo3";i'
+Uninstall:
+    pwsh -nop -c '$function:i=irm "https://git.io/JtOo3";i  -Un'
+
+In This Article
+
+    Supported Platforms
+    Automatic install
+    Uninstall
+
+
+
 ## Experiment
 
 * In this experment, I recorded insects flying between the sun an the sensor.
