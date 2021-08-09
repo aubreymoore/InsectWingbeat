@@ -21,3 +21,6 @@ I installed Audacity VERSION on Raspbian VERSION and was pleasantly surprised th
 ## Results
 
 ![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
