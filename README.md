@@ -20,6 +20,10 @@ I installed Audacity VERSION on Raspbian VERSION and was pleasantly surprised th
 
 ## Results
 
+![]()
+
+![]()
+
 ![](1.png)
 Figure 1. Spectrogram of 1.wav. Note the insect wingbeat harmonic series at about 20s.
 
@@ -27,7 +31,7 @@ Figure 1. Spectrogram of 1.wav. Note the insect wingbeat harmonic series at abou
 Figure 2. Spectrogram of 2.wav.
 
 ![](3.png)
-Figure 3. Spectrogram of 3.wav.
+Figure 3. Spectrogram of 3.wav. These signals are probably caused by parts of a small cloud moving over the sun.
 
 ![](4.png)
 Figure 4. Spectrogram of 4.wav.
