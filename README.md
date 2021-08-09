@@ -21,13 +21,13 @@ I installed Audacity VERSION on Raspbian VERSION and was pleasantly surprised th
 ## Results
 
 ![](1.png)
-Figure 1. Spectrogram of 1.wav. 
+Figure 1. Spectrogram of 1.wav. Note the insect wingbeat harmonic series at about 20s.
 
 ![](2.png)
-Figure 2
+Figure 2. Spectrogram of 2.wav.
 
 ![](3.png)
-Figure 3
+Figure 3. Spectrogram of 3.wav.
 
 ![](4.png)
-Figure 4
+Figure 4. Spectrogram of 4.wav.
