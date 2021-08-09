@@ -11,16 +11,13 @@ The sensor is just a miniature solar cell connected to a small transformer which
 
 ## Software
 
-I installed Audacity 2.2.2 on Raspbian 10 and was pleasantly surprised that it ran very well. I operated the Raspberry Pi remotely using VNC.
+### Recording 
 
-Install:
-```
-pwsh -nop -c '$function:i=irm "https://git.io/JtOo3";i'
-```
-Uninstall:
-```
-pwsh -nop -c '$function:i=irm "https://git.io/JtOo3";i  -Un'
-```
+For recording, I installed Audacity 2.2.2 on my Raspberry Pi 3+ running Raspbian 10 and was pleasantly surprised that it ran very well. I operated the Raspberry Pi remotely using VNC.
+
+### Analysis
+
+For analysis, I installed the Queensland University of [Technology AnalysisPrograms (AP)](https://ap.qut.ecoacoustics.info/basics/installing.html?tabs=windows) software on my Ubuntu 20.04 laptop.
 
 ## Experiment
 
