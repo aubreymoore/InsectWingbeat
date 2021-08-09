@@ -15,8 +15,9 @@ I installed Audacity 2.2.2 on Raspbian 10 and was pleasantly surprised that it r
 
 ## Experiment
 
+* In this experment, I recorded insects flying between the sun an the sensor.
 * I taped the sensor to the end of a 6 foot wooden pole and placed it in the direct sun just outside the balcony of my apartment. The sensor was connected to the USB sound adaptor using a 10 foot cable with appropriate connectors.
-* I used Audacity to record four one-minute mono WAV files at a sample rate of 44100 Hz. Weather was mostly sunny with light winds.
+* I used Audacity to record four one-minute mono WAV files at a sample rate of 44100 Hz. Recordings were made on August 2020 between 11:30am and 11:40am in Yona, Guam. Weather was mostly sunny with light winds.
 
 ## Results
 
