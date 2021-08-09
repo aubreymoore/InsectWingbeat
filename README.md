@@ -17,7 +17,7 @@ For recording, I installed Audacity 2.2.2 on my Raspberry Pi 3+ running Raspbian
 
 ### Analysis
 
-For analysis, I installed the Queensland University of [Technology AnalysisPrograms (AP)](https://ap.qut.ecoacoustics.info/basics/installing.html?tabs=windows) software on my Ubuntu 20.04 laptop.
+For analysis, I installed the [Ecoacoustics Audio Analysis Software](https://ap.qut.ecoacoustics.info/) software on my Ubuntu 20.04 laptop.
 
 ## Experiment
 
