@@ -21,7 +21,7 @@ I installed Audacity 2.2.2 on Raspbian 10 and was pleasantly surprised that it r
 
 ## Results
 
-A few insect signals can be heard during playback of the recordings. Some of these are clears visible in spectrograms (Figures 3,4,5,6).
+A few insect signals can be heard during playback of the recordings. Some of these are clearly visible in spectrograms (Figures 3,4,5,6).
 
 ![](sensor.jpg)
 Fig. 1 Sensor.
