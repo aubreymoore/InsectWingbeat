@@ -20,9 +20,11 @@ I installed Audacity VERSION on Raspbian VERSION and was pleasantly surprised th
 
 ## Results
 
-![]()
+![](sensor.jpg)
+Fig. 1 Sensor.
 
-![]()
+![](rpi.jpg)
+Fig 2. Raspberry Pi with USD sound adaptor.
 
 ![](1.png)
 Figure 1. Spectrogram of 1.wav. Note the insect wingbeat harmonic series at about 20s.
