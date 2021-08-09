@@ -7,7 +7,7 @@ Just for fun, I decided to hook one of my old sensors to a Raspberry Pi via a US
 
 ## Hardware
 
-The sensor is just a miniature solar cell connected to a small transformer which removes the DC component of the waveform. Output from the sensor was connected to a Raspberry Pi 3+ single board computer using a CableCreation USB sound adaptor.
+The sensor is just a miniature solar cell connected to a small transformer which removes the DC component of the waveform (Fig. 1). Output from the sensor was connected to a Raspberry Pi 3+ single board computer using a CableCreation USB sound adaptor (Fig.2).
 
 ## Software
 
@@ -16,9 +16,11 @@ I installed Audacity VERSION on Raspbian VERSION and was pleasantly surprised th
 ## Experiment
 
 * I taped the sensor to the end of a 6 foot wooden pole and placed it in the direct sun just outside the balcony of my apartment. The sensor was connected to the USB sound adaptor using a 10 foot cable with appropriate connectors.
-* I used Audacity to record four one-minute mono WAV files at a sample rate of 44100 Hz.
+* I used Audacity to record four one-minute mono WAV files at a sample rate of 44100 Hz. Weather was mostly sunny with light winds.
 
 ## Results
+
+A few insect signals can be heard during playback of the recordings. Some of these are clears visible in spectrograms (Figures 3,4,5,6).
 
 ![](sensor.jpg)
 Fig. 1 Sensor.
@@ -27,13 +29,13 @@ Fig. 1 Sensor.
 Fig 2. Raspberry Pi with USD sound adaptor.
 
 ![](1.png)
-Figure 1. Spectrogram of 1.wav. Note the insect wingbeat harmonic series at about 20s.
+Figure 3. Spectrogram of 1.wav. Note the insect wingbeat harmonic series at about 20s.
 
 ![](2.png)
-Figure 2. Spectrogram of 2.wav.
+Figure 4. Spectrogram of 2.wav.
 
 ![](3.png)
-Figure 3. Spectrogram of 3.wav. These signals are probably caused by parts of a small cloud moving over the sun.
+Figure 5. Spectrogram of 3.wav. These signals are probably caused by parts of a small cloud moving over the sun.
 
 ![](4.png)
-Figure 4. Spectrogram of 4.wav.
+Figure 6. Spectrogram of 4.wav.
