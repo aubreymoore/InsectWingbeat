@@ -21,6 +21,13 @@ I installed Audacity VERSION on Raspbian VERSION and was pleasantly surprised th
 ## Results
 
 ![](1.png)
+Figure 1. Spectrogram of 1.wav. 
+
 ![](2.png)
+Figure 2
+
 ![](3.png)
+Figure 3
+
 ![](4.png)
+Figure 4
