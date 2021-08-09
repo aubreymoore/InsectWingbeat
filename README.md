@@ -1,5 +1,5 @@
 # InsectWingbeat
-This repo documents my initial attempts to record insect wingbeat waveforms using an optica sensor and a Raspberry Pi.
+This repo documents my initial attempts to record insect wingbeat waveforms using an optical sensor and a Raspberry Pi.
 
 In the late 80s and early 90s I did a bit of work on automated monitoring and identification of flying insects using waveforms collected by very simple none-imaging optical sensors. Hardware and software has certainly changed a lot since then. My contribution to the field was to suggest characterizing insect wingbeat waveforms using harmonic content in addition to the wingbeat frequency (=fundamental frequency).
 
@@ -11,7 +11,7 @@ The sensor is just a miniature solar cell connected to a small transformer which
 
 ## Software
 
-I installed Audacity VERSION on Raspbian VERSION and was pleasantly surprised that it ran very well. I operated the Raspberry Pi remotely using VNC.
+I installed Audacity 2.2.2 on Raspbian 10 and was pleasantly surprised that it ran very well. I operated the Raspberry Pi remotely using VNC.
 
 ## Experiment
 
