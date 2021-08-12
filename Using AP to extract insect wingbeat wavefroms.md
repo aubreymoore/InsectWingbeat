@@ -2,5 +2,17 @@
 
 ## Installation
 
+* Install powershell
+* Install SoX
+* Install AP
+    * ~/.local/share/AP
+
 ## Recognizer
+
+* **~/.local/share/AP/ConfigFiles/RecognizerConfigFiles/Truskinger.PetaurusBreviceps.yml** provides a good starting point beacause it uses **!harmonics**
+
+```
+AP audio2csv test.wav Truskinger.PetaurusBreviceps.yml ./myoutput
+```
+
 
