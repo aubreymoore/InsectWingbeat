@@ -9,7 +9,7 @@
 
 ## Recording
 
-The SoxX CLI can be used to record audio. For example, the following records a mono wav file at 22050 Hz.
+The SoxX CLI can be used to record audio. For example, the following records a ten-minute mono wav file at 22050 Hz.
 ```
 rec -c 1 -r 22050 testsox.wav trim 0 10:00
 ```
