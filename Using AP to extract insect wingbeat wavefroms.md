@@ -9,7 +9,7 @@
 
 ## Recognizer
 
-* **~/.local/share/AP/ConfigFiles/RecognizerConfigFiles/Truskinger.PetaurusBreviceps.yml** provides a good starting point beacause it uses **!harmonics**
+* **~/.local/share/AP/ConfigFiles/RecognizerConfigFiles/Truskinger.PetaurusBreviceps.yml** provides a good starting point because it uses **!harmonics**
 
 ```
 AP audio2csv test.wav Truskinger.PetaurusBreviceps.yml ./myoutput
