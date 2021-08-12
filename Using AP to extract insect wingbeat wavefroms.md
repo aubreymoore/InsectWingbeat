@@ -9,10 +9,13 @@
 
 ## Recognizer
 
-* **~/.local/share/AP/ConfigFiles/RecognizerConfigFiles/Truskinger.PetaurusBreviceps.yml** provides a good starting point because it uses **!harmonics**
+A recognizer config file for insect wingbeat waveforms is included in this repo as **Ecosounds.GenericRecognizer.Moore.yml**. This recognizer is based upon 
+* **~/.local/share/AP/ConfigFiles/RecognizerConfigFiles/Truskinger.PetaurusBreviceps.yml**.
+
+The commandline to run AP with this recognizer is:
 
 ```
-AP audio2csv test.wav Truskinger.PetaurusBreviceps.yml ./myoutput
+AP audio2csv test.wav Ecosounds.GenericRecognizer.Moore.yml ./myoutput
 ```
 
 
