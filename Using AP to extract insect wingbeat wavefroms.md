@@ -7,6 +7,13 @@
 * Install AP
     * ~/.local/share/AP
 
+## Recording
+
+The SoxX CLI can be used to record audio. For example, the following records a mono wav file at 22050 Hz.
+```
+rec -c 1 -r 22050 testsox.wav trim 0 10:00
+```
+
 ## Recognizer
 
 A recognizer config file for insect wingbeat waveforms is included in this repo as **Ecosounds.GenericRecognizer.Moore.yml**. This recognizer is based upon 
