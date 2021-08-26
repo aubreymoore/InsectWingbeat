@@ -4,10 +4,7 @@ authors:
 - family-names: "Aubrey"
   given-names: "Moore"
   orcid: "https://orcid.org/"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0002-2104-1958 "
-title: "InsectWingbeat"
+title: "Raspberry Pi Insct Wingbeat Waveform Recorder"
 version: 1.0.0
 date-released: 2021-08-26
 url: "https://github.com/aubreymoore/InsectWingbeat"
