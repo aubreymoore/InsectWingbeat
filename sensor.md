@@ -3,7 +3,8 @@
 One of those cheap solar powered garden path markers available in most hardware stores can be easily converted into an insect wingbeat waveform photosensor following these steps:
 * Remove the LED, circuit board and rechargable battery.
 * Drill a hole in the side of the case to accept an audio cable.
-* Solder the wires from the solar cell to one side of a miniature transformer (Fig. 1). I got my transformer from Amazon.
+* Solder the wires from the solar cell to one side of a miniature transformer (Fig. 1). 
+[I got my transformer from Amazon](https://www.amazon.com/dp/B073PXK2RX?psc=1&ref=ppx_yo2_dt_b_product_details).
 * Solder the other side of the transformer to a cable with a 3.5 mm phono plug (Fig. 1).
 
 Figures 2 and 3 show the finished product.
