@@ -15,4 +15,4 @@ Now you can plug the sensor into a recording device to record transient waveform
 
 <p><img src="simple_sensor_2.resized.png"><br><b>Figure 3. Simple sensor, bottom view.</b></p>
 
-<p><img src="simple_sensor.png"><br><b>Figure 4. First recording made when the sensor was placed in the sun and plugged into a Raspberry Pi equipped with a USB sound adaptor. This is a screenshot of an Audacity spectrogram.</b></p
+<p><img src="simple_sensor.png"><br><b>Figure 4. First recording made when the sensor was placed in the sun and plugged into a Raspberry Pi equipped with a USB sound adaptor. This is a screenshot of an Audacity spectrogram. Two insect wingbeat waveforms are clearly visible.</b></p
