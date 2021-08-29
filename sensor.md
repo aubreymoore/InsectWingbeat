@@ -1,5 +1,7 @@
 
-![](simple_sensor_1_resized.png)
+![](simple_sensor_1.resized.png)
+
+![](simple_sensor_2.resized.png)
 
 
 ![](simple_sensor.png}
