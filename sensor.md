@@ -1,8 +1,8 @@
 ![](simple_sensor_schematic-1.png)
 
 <figure>
-  <img src="simple_sensor_schematic-1.png style="width:100%">
-  <figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
+  <img src="simple_sensor_schematic-1.png">
+  <figcaption <b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
 </figure>
 
 ![](simple_sensor_1.resized.png)
