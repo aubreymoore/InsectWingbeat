@@ -1,11 +1,7 @@
-![](simple_sensor_schematic-1.png)
+<p><img src="simple_sensor_schematic-1.png"><br><b>Figure 1.Sple sensor, schematic.</b></p>
 
-<p><img src="simple_sensor_schematic-1.png"><br><b>Fig.1 - Schematic</b></figcaption></p>
+<p><img src="simple_sensor_1.resized.png"><br><b>Figure 2. Simple sensor, top view.</b></p>
 
-![](simple_sensor_1.resized.png)
+<p><img src="simple_sensor_2.resized.png"><br><b>Figure 3. Simple sensor, bottom view.</b></p>
 
-![](simple_sensor_2.resized.png)
-
-![](simple_sensor.png)
-
-[Soldering a flex wire to a single solar cell](https://www.youtube.com/watch?v=4MQuvqyZ0wY)
+<p><img src="simple_sensor.png"><br><b>Figure 4. asasasas.</b></p
