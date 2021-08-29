@@ -1,3 +1,4 @@
+![](simple_sensor_schematic.png)
 
 ![](simple_sensor_1.resized.png)
 
